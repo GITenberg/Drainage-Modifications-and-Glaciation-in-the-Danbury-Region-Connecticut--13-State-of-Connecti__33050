@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36183'
     url: http://www.gutenberg.org/2009/agents/36183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33050#Drainage-Modifications-and-Glaciation-in-the-Danbury-Region-Connecticut--13-State-of-Connecti_
 gutenberg_issued: '2010-07-03'
 gutenberg_type: Text
 identifiers:
