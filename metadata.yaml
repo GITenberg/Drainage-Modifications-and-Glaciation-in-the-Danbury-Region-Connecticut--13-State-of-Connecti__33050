@@ -1,0 +1,27 @@
+_repo: Drainage-Modifications-and-Glaciation-in-the-Danbury-Region-Connecticut--13-State-of-Connecti__33050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harvey, Ruth Sawyer
+    gutenberg_agent_id: '36183'
+    url: http://www.gutenberg.org/2009/agents/36183
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33050'
+  lccn: gs21000005
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glacial epoch'
+- !lcc 'QE'
+- !lcsh 'Geology -- Connecticut'
+title: "Drainage Modifications and Glaciation in the Danbury Region Connecticut\r\n\
+  State of Connecticut State Geological and Natural History Survey Bulletin No. 30"
+url: http://www.gutenberg.org/ebooks/33050
